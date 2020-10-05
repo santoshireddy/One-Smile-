@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<div class="header">
+<img src="logoos.png" height="180" width="140">
+ <h3>Wish your loved ones virtually on special occasions, who are far away and make them feel you are around them.</h3>
+</div>
+
+<style>
+* {
+ box-sizing: border-box;
+}
+body {
+ font-family: Calibri,Verdana,Arials;
+ margin: 0;
+}
+.header {
+ padding:1px;
+ text-align: center;
+ background-color:#E8F6F3;
+ color:#EF9A9A;
+}
+.header h1 {
+ font-size: 80px;
+}
+
+
+.main {
+ flex: 70%;
+ background-color:#FDEDEC;
+ padding: 20px;
+}
+
+
+.footer {
+ padding: 20px;
+ text-align:center;
+ background-color:#E8F6F3;
+ color:#EF9A9A;
+}
+</style>
+</head>
+
+
+<body>
+
+<div class="main">
+<center><img src= "hdb.gif"/></center>
+<img src="wpic.png" height="150" width="150"/>
+<p><button><a href="Wife.mp4">Namrata</a></button></p>
+<p><img src="spic.png" height="150" width="150"/></p>
+<p><button><a href="Son.mp4">Gautham</a></button></p>
+<p><img src="dpic.png" height="150" width="150"/></p>
+<p><button><a href="Daughter.mp4">Sitara</a></button></p> 
+</div>
+
+<div class="footer">
+ <img src="footer.png" height="100" width="1000">
+</div>
+
+</body>
+</html>
